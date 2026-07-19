@@ -10,4 +10,10 @@ Positional servos needed to receive angle controls
  - Servo B   → D10  - presses the ON  button (left servo)
  - LED       → D6   - **100 ohm resistor
 
-<img width="1080" height="1080" alt="Useless Servo battle blue LED" src="https://github.com/user-attachments/assets/b99f6a22-afc9-4592-87b1-abb7b35d6098" />
+### Parts list with -- Amazon Affiliate links -- 
+Arduino Starter kit used for several components
+- ELEGOO Uno R3 Most Complete Starter kit: https://amzn.to/4rYCt2i
+- 10mm colored LED pack - https://amzn.to/3RJktgn
+- Metal MG90S Servo Micro - https://amzn.to/3TrWv9U
+
+<img width="600" height="600" alt="Useless Servo battle blue LED" src="https://github.com/user-attachments/assets/b99f6a22-afc9-4592-87b1-abb7b35d6098" />
